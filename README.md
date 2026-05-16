@@ -78,3 +78,4 @@ Alternativamente, se puede crear un environment vacío e instalar los paquetes n
 
 - Apretar las teclas Ctrl+Shift+P (para ir a la línea de comandos) y escribir "Seleccionar Intérprete" (Select Interpreter)
 	- Elegir el ejecutable Python del environment creado: "diplo-ia".
+finalización de archivo
